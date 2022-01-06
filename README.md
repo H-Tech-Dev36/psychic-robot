@@ -1,25 +1,9 @@
 # psychic-robot
 Windows Virus who destroy some impotants files on C:\windows\system32\
+
+
 # Signatures of psychic-robot.PY (python file) :
-   - Bkav Pro             ASP.Webshell
-
-   D5 : 68b79c1954bbe82e6627f41407f97f5a
-
-   SHA-1 : 9b272086f6a609d2bf17a7bef2d80c2fca8baaac
-
-   SHA-256 : 7f210102cc5f02b7679405a16635000e45c7e37709fb540a60af82baaec42084
-
-   SSDEEP : 192:adPdTdndBddd9dxdTdndtd5dRdNd+dJdc:adPdTdndBddd9dxdTdndtd5dRdNd+dJi
-
-   TLSH : T15F02D140EA584272027A59ED04F38D62B2A1F027BF16D751378D719C9F385EE4E3B6E2
-
-   File type : Python
-
-   Magic ASCII Python program text, with CRLF line terminators
-
-   File size : 8.08 KB (8274 bytes) 
-
-
+   - Bkav Pro : ASP.Webshell
 
 
 # Signatures of psychic-robot.EXE (executable) : 
@@ -62,3 +46,21 @@ Windows Virus who destroy some impotants files on C:\windows\system32\
 - For educationnal purposes
 - OpenSource **
 ⚠️ DO NOT INFECT THE OTHER'S PC ⚠️
+
+
+# Optionnal Infos :
+ D5 : 68b79c1954bbe82e6627f41407f97f5a
+
+   SHA-1 : 9b272086f6a609d2bf17a7bef2d80c2fca8baaac
+
+   SHA-256 : 7f210102cc5f02b7679405a16635000e45c7e37709fb540a60af82baaec42084
+
+   SSDEEP : 192:adPdTdndBddd9dxdTdndtd5dRdNd+dJdc:adPdTdndBddd9dxdTdndtd5dRdNd+dJi
+
+   TLSH : T15F02D140EA584272027A59ED04F38D62B2A1F027BF16D751378D719C9F385EE4E3B6E2
+
+   File type : Python
+
+   Magic ASCII Python program text, with CRLF line terminators
+
+   File size : 8.08 KB (8274 bytes) 
