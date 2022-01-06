@@ -1,5 +1,5 @@
 # psychic-robot
-Windows Virus who destroy some impotants files on C:\windows\system32\
+Windows Virus who destroy some importants files on C:\windows\system32\
 
 
 # Signatures of psychic-robot.PY (python file) :
