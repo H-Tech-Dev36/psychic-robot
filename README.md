@@ -42,7 +42,7 @@ Windows Virus who destroy some importants files on C:\windows\system32\
 
 # Details :
 - This is not a ransomware 
-- **he is recognized as ransomware because he is using the XOR method ;) **
+- **it's recognized as ransomware because he is using the XOR method ;) **
 - For educationnal purposes
 - OpenSource 
 - ⚠️ DO NOT INFECT THE OTHER'S PC ⚠️
