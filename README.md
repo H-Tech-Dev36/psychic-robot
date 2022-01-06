@@ -44,9 +44,9 @@ Windows Virus who destroy some impotants files on C:\windows\system32\
 - This is not a ransomware 
 - **he is recognized as ransomware because he is using the XOR method ;) **
 - For educationnal purposes
-- OpenSource **
-⚠️ DO NOT INFECT THE OTHER'S PC ⚠️
-
+- OpenSource 
+- ⚠️ DO NOT INFECT THE OTHER'S PC ⚠️
+- ⚠️ DO NOT USE FOR ILLEGAL PURPOSES ⚠️
 
 # Optionnal Infos :
  D5 : 68b79c1954bbe82e6627f41407f97f5a
