@@ -64,3 +64,4 @@ Windows Virus who destroy some importants files on C:\windows\system32\
    Magic ASCII Python program text, with CRLF line terminators
 
    File size : 8.08 KB (8274 bytes) 
+# VirusTotal : https://www.virustotal.com/gui/file/0525cc2d4079a9a3bc413f552a4125d32f030bf2eeeaa8df559c901537712e39
