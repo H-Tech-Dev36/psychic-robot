@@ -21,8 +21,8 @@ def loopback():
                 D    D    D
 
         
-        -devlopé par Le Théoritien-
-        -traduit par Canardcoincoin (c'est aussi moi qui ai fait tout les truc stylé)-
+        -devlopé par Le Théoritien [ H-Tech-Dev36 ] -
+        -traduit par Canardcoincoin [ CanardCoinCoin le BG ]-
 
         ====================
         Commandes de base :
